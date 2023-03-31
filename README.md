@@ -1,2 +1,2 @@
 # pensionscripts
-optimizando pajas
+optimizando tareas
